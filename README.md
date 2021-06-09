@@ -1,4 +1,4 @@
-# Sample app for quoting currencies using [CurrencyLayer API](https://currencylayer.com/documentation).
+## Sample app for quoting currencies using [CurrencyLayer API](https://currencylayer.com/documentation).
 
 ### Main Features
 
